@@ -1,4 +1,3 @@
-# BTP2CSE125_synopsis
 # AI-Based Routing Algorithm for Network-on-Chip (NoC)
 
 ## Overview
